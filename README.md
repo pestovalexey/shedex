@@ -1,2 +1,2 @@
-# shedex
-Exclusive running of scheduled task for multiple application instances
+# ShedEx
+Exclusive running of scheduled task for multiple Spring application instances
